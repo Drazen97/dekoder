@@ -1,2 +1,0 @@
-# dekoder
-Created with CodeSandbox
